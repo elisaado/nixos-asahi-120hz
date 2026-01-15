@@ -1,5 +1,9 @@
 # NixOS Asahi 120Hz
 
+## IMPORTANT
+
+This module is **not** needed anymore, support for 120hz has been merged into the Asahi kernel and works out of the box when using the NixOS-apple-silicon module!
+
 ## Purpose
 
 See [https://github.com/AsahiLinux/linux/pull/428]
